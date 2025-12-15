@@ -86,6 +86,127 @@
     </div>
     <!-- rts banner area end -->
 
+    <!-- Why Choosing us -->
+     <section class="rts-destination-area rts-section-gap body-bg-one" data-bg-src="assets/images/destination/map-bg.svg">
+        <div class="container">
+            <div class="section-top-area d-flex align-items-end justify-content-between">
+                <div class="section-title-area wow fadeInLeft" data-wow-delay="0.2s">
+                    <p class="sub-title">Destinations</p>
+                    <h2 class="section-title mb-0">Popular Destination</h2>
+                </div>
+                <div class="button-area mb--15 mb_sm--0 wow fadeInRight" data-wow-delay="0.2s">
+                    <a href="destination.html" class="rts-btn btn-primary btn-border with-arrow">View All <i class="fa-regular fa-arrow-up up-right"></i></a>
+                </div>
+            </div>
+            <div class="section-inner mt--60 mt_sm--30 position-relative pb--80 wow fadeInUp" data-wow-delay="0.2s">
+                <div class="swiper destination-slider">
+                    <div class="swiper-wrapper">
+                        <div class="swiper-slide">
+                            <div class="destination-wrapper radius-10 image-transform">
+                                <div class="image-area">
+                                    <a href="destination-details.html">
+                                        <img class="hover-image" src="assets/images/destination/01.webp" alt="">
+                                    </a>
+                                </div>
+                                <div class="content">
+                                    <h5 class="title"><a href="destination-details.html">Bali, Indonesia</a></h5>
+                                    <p class="tag"><img src="assets/images/destination/icon/01.svg" alt=""> 12 Packages Available</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="destination-wrapper radius-10 image-transform">
+                                <div class="image-area">
+                                    <a href="destination-details.html">
+                                        <img class="hover-image" src="assets/images/destination/02.webp" alt="">
+                                    </a>
+                                </div>
+                                <div class="content">
+                                    <h5 class="title"><a href="destination-details.html">Maldives, Asia</a></h5>
+                                    <p class="tag"><img src="assets/images/destination/icon/01.svg" alt=""> 07 Packages Available</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="destination-wrapper radius-10 image-transform">
+                                <div class="image-area">
+                                    <a href="destination-details.html">
+                                        <img class="hover-image" src="assets/images/destination/03.webp" alt="">
+                                    </a>
+                                </div>
+                                <div class="content">
+                                    <h5 class="title"><a href="destination-details.html">Santorini, Greece</a></h5>
+                                    <p class="tag"><img src="assets/images/destination/icon/01.svg" alt=""> 02 Packages Available</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="destination-wrapper radius-10 image-transform">
+                                <div class="image-area">
+                                    <a href="destination-details.html">
+                                        <img class="hover-image" src="assets/images/destination/04.webp" alt="">
+                                    </a>
+                                </div>
+                                <div class="content">
+                                    <h5 class="title"><a href="destination-details.html">Bali, Indonesia</a></h5>
+                                    <p class="tag"><img src="assets/images/destination/icon/01.svg" alt=""> 09 Packages Available</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="destination-wrapper radius-10 image-transform">
+                                <div class="image-area">
+                                    <a href="destination-details.html">
+                                        <img class="hover-image" src="assets/images/destination/01.webp" alt="">
+                                    </a>
+                                </div>
+                                <div class="content">
+                                    <h5 class="title"><a href="destination-details.html">Bali, Indonesia</a></h5>
+                                    <p class="tag"><img src="assets/images/destination/icon/01.svg" alt=""> 12 Packages Available</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="destination-wrapper radius-10 image-transform">
+                                <div class="image-area">
+                                    <a href="destination-details.html">
+                                        <img class="hover-image" src="assets/images/destination/02.webp" alt="">
+                                    </a>
+                                </div>
+                                <div class="content">
+                                    <h5 class="title"><a href="destination-details.html">Maldives, Asia</a></h5>
+                                    <p class="tag"><img src="assets/images/destination/icon/01.svg" alt=""> 07 Packages Available</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="destination-wrapper radius-10 image-transform">
+                                <div class="image-area">
+                                    <a href="destination-details.html">
+                                        <img class="hover-image" src="assets/images/destination/03.webp" alt="">
+                                    </a>
+                                </div>
+                                <div class="content">
+                                    <h5 class="title"><a href="destination-details.html">Santorini, Greece</a></h5>
+                                    <p class="tag"><img src="assets/images/destination/icon/01.svg" alt=""> 02 Packages Available</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="swiper-nav-pag-area">
+                    <div class="swiper-pagination2"></div>
+                    <div class="swiper-navigation">
+                        <div class="swiper-btn swiper-btn-prev2"><i class="fa-regular fa-chevron-left"></i></div>
+                        <div class="swiper-btn swiper-btn-next2"><i class="fa-regular fa-chevron-right"></i></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- end of why choose us-->
+
+
     <!-- rts Offer area start -->
     <div class="rts-offer-area rts-section-gap">
         <div class="container">

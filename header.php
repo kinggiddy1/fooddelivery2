@@ -11,7 +11,7 @@
                         <nav class="main-nav-area">
                             <ul class="list-unstyled rts-desktop-menu">
                                 <li class="menu-item rts-has-dropdown">
-                                    <a class="main-element rts-dropdown-main-element" href="#">Home</a>
+                                    <a class="main-element rts-dropdown-main-element" href="index.php">Home</a>
                                 </li>
                                 <li class="menu-item"><a class="main-element rts-dropdown-main-element" href="contact.html">About</a></li>
                                
