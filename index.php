@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="shortcut icon" type="image/x-icon" href="assets/images/fav.svg">
-    <title>Travel & Tour Booking HTML Template</title>
+    <title>Home - Original Food Delivery</title>
     <!-- swiper css -->
     <link rel="stylesheet preload" href="assets/css/plugins/swiper.min.css" as="style">
     <!-- Custom Font css -->

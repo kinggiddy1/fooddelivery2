@@ -4,9 +4,8 @@
                 <div class="header-style-one-wrapper">
                     <div class="left-area">
                         <div class="logo-area">
-                            <a href="index.html" class="logo">
-                                <img class="light" src="assets/images/logo/01.svg" alt="logo">
-                                <img class="dark" src="assets/images/logo/02.svg" alt="logo">
+                            <a href="index.php" class="logo">
+                                <img class="light" src="assets/images/logo/logo.jpg" width="100" height="100" alt="logo">                            
                             </a>
                         </div>
                         <nav class="main-nav-area">
