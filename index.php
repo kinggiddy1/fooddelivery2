@@ -80,6 +80,13 @@
             </div>
         </div>
         
+        <div class="rts__section advance__search__section is__home__one">
+            <div class="section-title-area center-style">
+                <p class="sub-title cw wow fadeInUp" data-wow-delay="0.2s">Pure Original Honey</p>
+                <h1 class="section-title cw wow fadeInUp" data-wow-delay="0.4s">Delivering Pure Original Honey Worldwide</h1>
+            </div>
+            
+        </div>
         <div class="swiper-pagination-area">
             <div class="slider-dots wow fadeInUp" data-wow-delay="0.8s"></div>
         </div>
