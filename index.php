@@ -66,11 +66,11 @@
         <div class="swiper banner-slider-active">
             <div class="swiper-wrapper">
                 <div class="swiper-slide">
-                    <div class="rts-hero-banner bg" data-bg-src="assets/images/banner/bg-01.webp">
+                    <div class="rts-hero-banner bg" data-bg-src="assets/images/banner/1.jpg">
                     </div>
                 </div>
                 <div class="swiper-slide">
-                    <div class="rts-hero-banner bg" data-bg-src="assets/images/banner/bg-02.webp">
+                    <div class="rts-hero-banner bg" data-bg-src="assets/images/banner/2.png">
                     </div>
                 </div>
                 <div class="swiper-slide">
@@ -86,263 +86,54 @@
     </div>
     <!-- rts banner area end -->
 
-    <!-- Why Choosing us -->
-     <section class="rts-destination-area rts-section-gap body-bg-one" data-bg-src="assets/images/destination/map-bg.svg">
+   <!-- Why Choosing us -->
+    <section class="rts-about-area rts-section-gap" style="background:#1E7BBD;">
         <div class="container">
-            <div class="section-top-area d-flex align-items-end justify-content-between">
-                <div class="section-title-area wow fadeInLeft" data-wow-delay="0.2s">
-                    <p class="sub-title">Destinations</p>
-                    <h2 class="section-title mb-0">Popular Destination</h2>
-                </div>
-                <div class="button-area mb--15 mb_sm--0 wow fadeInRight" data-wow-delay="0.2s">
-                    <a href="destination.html" class="rts-btn btn-primary btn-border with-arrow">View All <i class="fa-regular fa-arrow-up up-right"></i></a>
-                </div>
-            </div>
-            <div class="section-inner mt--60 mt_sm--30 position-relative pb--80 wow fadeInUp" data-wow-delay="0.2s">
-                <div class="swiper destination-slider">
-                    <div class="swiper-wrapper">
-                        <div class="swiper-slide">
-                            <div class="destination-wrapper radius-10 image-transform">
-                                <div class="image-area">
-                                    <a href="destination-details.html">
-                                        <img class="hover-image" src="assets/images/destination/01.webp" alt="">
-                                    </a>
-                                </div>
-                                <div class="content">
-                                    <h5 class="title"><a href="destination-details.html">Bali, Indonesia</a></h5>
-                                    <p class="tag"><img src="assets/images/destination/icon/01.svg" alt=""> 12 Packages Available</p>
-                                </div>
-                            </div>
+            <div class="row gy-5 gy-lg-0">
+                <div class="col-lg-6">
+                    <div class="about-content-wrapper">
+                        <div class="section-title-area3">
+                            <span class="sub-title">About Us</span>
+                            <h2 class="section-title">Delivering Pure <br> Original Honey Worldwide</h2>
                         </div>
-                        <div class="swiper-slide">
-                            <div class="destination-wrapper radius-10 image-transform">
-                                <div class="image-area">
-                                    <a href="destination-details.html">
-                                        <img class="hover-image" src="assets/images/destination/02.webp" alt="">
-                                    </a>
-                                </div>
-                                <div class="content">
-                                    <h5 class="title"><a href="destination-details.html">Maldives, Asia</a></h5>
-                                    <p class="tag"><img src="assets/images/destination/icon/01.svg" alt=""> 07 Packages Available</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="swiper-slide">
-                            <div class="destination-wrapper radius-10 image-transform">
-                                <div class="image-area">
-                                    <a href="destination-details.html">
-                                        <img class="hover-image" src="assets/images/destination/03.webp" alt="">
-                                    </a>
-                                </div>
-                                <div class="content">
-                                    <h5 class="title"><a href="destination-details.html">Santorini, Greece</a></h5>
-                                    <p class="tag"><img src="assets/images/destination/icon/01.svg" alt=""> 02 Packages Available</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="swiper-slide">
-                            <div class="destination-wrapper radius-10 image-transform">
-                                <div class="image-area">
-                                    <a href="destination-details.html">
-                                        <img class="hover-image" src="assets/images/destination/04.webp" alt="">
-                                    </a>
-                                </div>
-                                <div class="content">
-                                    <h5 class="title"><a href="destination-details.html">Bali, Indonesia</a></h5>
-                                    <p class="tag"><img src="assets/images/destination/icon/01.svg" alt=""> 09 Packages Available</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="swiper-slide">
-                            <div class="destination-wrapper radius-10 image-transform">
-                                <div class="image-area">
-                                    <a href="destination-details.html">
-                                        <img class="hover-image" src="assets/images/destination/01.webp" alt="">
-                                    </a>
-                                </div>
-                                <div class="content">
-                                    <h5 class="title"><a href="destination-details.html">Bali, Indonesia</a></h5>
-                                    <p class="tag"><img src="assets/images/destination/icon/01.svg" alt=""> 12 Packages Available</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="swiper-slide">
-                            <div class="destination-wrapper radius-10 image-transform">
-                                <div class="image-area">
-                                    <a href="destination-details.html">
-                                        <img class="hover-image" src="assets/images/destination/02.webp" alt="">
-                                    </a>
-                                </div>
-                                <div class="content">
-                                    <h5 class="title"><a href="destination-details.html">Maldives, Asia</a></h5>
-                                    <p class="tag"><img src="assets/images/destination/icon/01.svg" alt=""> 07 Packages Available</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="swiper-slide">
-                            <div class="destination-wrapper radius-10 image-transform">
-                                <div class="image-area">
-                                    <a href="destination-details.html">
-                                        <img class="hover-image" src="assets/images/destination/03.webp" alt="">
-                                    </a>
-                                </div>
-                                <div class="content">
-                                    <h5 class="title"><a href="destination-details.html">Santorini, Greece</a></h5>
-                                    <p class="tag"><img src="assets/images/destination/icon/01.svg" alt=""> 02 Packages Available</p>
-                                </div>
-                            </div>
-                        </div>
+                        <p style="color:#ffffff;">
+                        <p style="color:#ffffff;">
+                            Original Food Delivery is dedicated to delivering 100% pure, natural honey to customers
+                            around the world. We work closely with trusted local producers to ensure every product
+                            meets the highest standards of quality, freshness, and authenticity.
+                        </p>
+                        <p style="color:#ffffff;">
+                            From careful sourcing and hygienic packaging to secure international shipping, we make
+                            it easy to enjoy original honey wherever you are. Our mission is to connect people
+                            worldwide with nature’s finest sweetness.
+                        </p>                        
                     </div>
                 </div>
-                <div class="swiper-nav-pag-area">
-                    <div class="swiper-pagination2"></div>
-                    <div class="swiper-navigation">
-                        <div class="swiper-btn swiper-btn-prev2"><i class="fa-regular fa-chevron-left"></i></div>
-                        <div class="swiper-btn swiper-btn-next2"><i class="fa-regular fa-chevron-right"></i></div>
+                <div class="col-lg-6">
+                    <div class="about-img-area">
+                        <div class="img">
+                            <div class="floating-img overflow-hidden wow zoomIn" data-wow-delay="0.4s">
+                                <img class="wow scaleIn" data-wow-delay="0.4s" src="assets/images/honey/IMG-20251215-WA0003.jpg" width="406" alt="">
+                            </div>
+                            <div class="rotate-img wow rotateImg2" data-wow-delay="0.2s">
+                                <img src="assets/images/honey/IMG-20251215-WA0004.jpg" width="255" alt="">
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
         </div>
     </section>
-    <!-- end of why choose us-->
+<!-- end of why choose us -->
 
 
-    <!-- rts Offer area start -->
-    <div class="rts-offer-area rts-section-gap">
-        <div class="container">
-            <div class="section-inner">
-                <div class="row g-5">
-                    <div class="col-lg-4 col-md-6">
-                        <div class="offer-wrapper radius-10 wow fadeInRight" data-wow-delay="0.2s" data-bg-src="assets/images/offer/01.webp">
-                            <p class="sub-title">Book Today</p>
-                            <h4 class="title">Save Up to 30% on Next Adventure!</h4>
-                            <a href="contact.html" class="rts-btn btn-primary with-arrow">Book Now <i class="fa-regular fa-arrow-up up-right"></i></a>
-                            <div class="person wow fadeInRight" data-wow-delay="0.7s"><img src="assets/images/offer/03.webp" alt=""></div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6">
-                        <div class="offer-wrapper radius-10 mid wow fadeInRight" data-wow-delay="0.4s">
-                            <p class="sub-title">Book Today</p>
-                            <h4 class="title ch">Fly High <span>30% OFF</span> on Air Tickets!</h4>
-                            <a href="contact.html" class="rts-btn btn-primary with-arrow">Explore Flights <i class="fa-regular fa-arrow-up up-right"></i></a>
-                            <div class="person wow fadeInUp" data-wow-delay="0.7s"><img src="assets/images/offer/04.webp" alt=""></div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6">
-                        <div class="offer-wrapper radius-10 wow fadeInRight" data-wow-delay="0.6s" data-bg-src="assets/images/offer/02.webp">
-                            <p class="sub-title">Book Today</p>
-                            <h4 class="title">Explore the World with 20% OFF</h4>
-                            <a href="contact.html" class="rts-btn btn-primary with-arrow">Book Now <i class="fa-regular fa-arrow-up up-right"></i></a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- rts Offer area end -->
-
-    <!-- rts Trip Type area start -->
-    <section class="rts-trip-type-area rts-section-gapBottom">
-        <div class="container">
-            <div class="section-title-area center-style">
-                <p class="sub-title wow fadeInUp" data-wow-delay="0.2s">Trip Type</p>
-                <h2 class="section-title wow fadeInUp" data-wow-delay="0.4s">Pick Your Travel Mood</h2>
-                <p class="desc wow fadeInUp" data-wow-delay="0.6s">Discover the most loved travel spots around the world.</p>
-            </div>
-            <div class="section-inner mt--60 wow fadeInUp" data-wow-delay="0.2s">
-                <div class="swiper trip-slider">
-                    <div class="swiper-wrapper">
-                        <div class="swiper-slide">
-                            <div class="trip-wrapper radius-10 image-transform">
-                                <div class="image-area">
-                                    <img class="hover-image" src="assets/images/trip/01.webp" alt="">
-                                </div>
-                                <div class="content">
-                                    <h5 class="title"><a href="tour.html">Beach Holiday (01)</a></h5>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="swiper-slide">
-                            <div class="trip-wrapper radius-10 image-transform">
-                                <div class="image-area">
-                                    <img class="hover-image" src="assets/images/trip/02.webp" alt="">
-                                </div>
-                                <div class="content">
-                                    <h5 class="title"><a href="tour.html">Adventure (04)</a></h5>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="swiper-slide">
-                            <div class="trip-wrapper radius-10 image-transform">
-                                <div class="image-area">
-                                    <img class="hover-image" src="assets/images/trip/03.webp" alt="">
-                                </div>
-                                <div class="content">
-                                    <h5 class="title"><a href="tour.html">Honeymoon (05)</a></h5>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="swiper-slide">
-                            <div class="trip-wrapper radius-10 image-transform">
-                                <div class="image-area">
-                                    <img class="hover-image" src="assets/images/trip/04.webp" alt="">
-                                </div>
-                                <div class="content">
-                                    <h5 class="title"><a href="tour.html">Trekking (03)</a></h5>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="swiper-slide">
-                            <div class="trip-wrapper radius-10 image-transform">
-                                <div class="image-area">
-                                    <img class="hover-image" src="assets/images/trip/02.webp" alt="">
-                                </div>
-                                <div class="content">
-                                    <h5 class="title"><a href="tour.html">Adventure (04)</a></h5>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="swiper-slide">
-                            <div class="trip-wrapper radius-10 image-transform">
-                                <div class="image-area">
-                                    <img class="hover-image" src="assets/images/trip/03.webp" alt="">
-                                </div>
-                                <div class="content">
-                                    <h5 class="title"><a href="tour.html">Honeymoon (05)</a></h5>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="swiper-slide">
-                            <div class="trip-wrapper radius-10 image-transform">
-                                <div class="image-area">
-                                    <img class="hover-image" src="assets/images/trip/04.webp" alt="">
-                                </div>
-                                <div class="content">
-                                    <h5 class="title"><a href="tour.html">Trekking (03)</a></h5>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="swiper-nav-pag-area">
-                    <div class="swiper-pagination"></div>
-                    <div class="swiper-navigation">
-                        <div class="swiper-btn swiper-btn-prev"><i class="fa-regular fa-chevron-left"></i></div>
-                        <div class="swiper-btn swiper-btn-next"><i class="fa-regular fa-chevron-right"></i></div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- rts Trip Type area end -->
 
     <!-- rts Destination area start -->
     <section class="rts-destination-area rts-section-gap body-bg-one" data-bg-src="assets/images/destination/map-bg.svg">
         <div class="container">
             <div class="section-top-area d-flex align-items-end justify-content-between">
                 <div class="section-title-area wow fadeInLeft" data-wow-delay="0.2s">
-                    <p class="sub-title">Destinations</p>
-                    <h2 class="section-title mb-0">Popular Destination</h2>
+                    <h2 class="section-title mb-0" >Our Products</h2>
                 </div>
                 <div class="button-area mb--15 mb_sm--0 wow fadeInRight" data-wow-delay="0.2s">
                     <a href="destination.html" class="rts-btn btn-primary btn-border with-arrow">View All <i class="fa-regular fa-arrow-up up-right"></i></a>

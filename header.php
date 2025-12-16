@@ -1,21 +1,73 @@
-<header class="header-style-one header--sticky">
-        <div class="row">
-            <div class="col-lg-12">
-                <div class="header-style-one-wrapper">
-                    <div class="left-area">
-                        <div class="logo-area">
-                            <a href="index.php" class="logo">
-                                <img class="light" src="assets/images/logo/logo.jpg" width="100" height="100" alt="logo">                            
+<header class="header-style-two header--sticky home-hiking-bg">
+        <div class="header-top" style="background-color:#1E7BBD; color:#ffffff; font-size:14px;">
+        <div class="container" style="padding-top:0; padding-bottom:0;">
+            <div class="header-top-inner"
+                style="display:flex; align-items:center; justify-content:space-between; height:36px;">
+
+                <div class="left" style="display:flex; align-items:center;">
+                    <p class="desc"
+                    style="margin:0; padding:0; color:#ffffff; font-weight:500; line-height:1;">
+                        <i class="fa-solid fa-envelope"
+                        style="margin-right:6px; line-height:1;"></i>
+                        <a href="mailto:info@originalfooddelivery.com"
+                        style="color:#ffffff; text-decoration:none; line-height:1;">
+                            info@originalfooddelivery.com
+                        </a>
+                    </p>
+                </div>
+
+                <div class="right" style="display:flex; align-items:center;">
+                    <ul class="social-area"
+                        style="display:flex; align-items:center; gap:16px; margin:0; padding:0; list-style:none; line-height:1;">
+                        <li style="line-height:1;">
+                            <a href="#" style="color:#ffffff; font-size:14px; line-height:1; text-decoration:none;">
+                                <i class="fa-brands fa-facebook-f"></i>
                             </a>
-                        </div>
-                        <nav class="main-nav-area">
-                            <ul class="list-unstyled rts-desktop-menu">
-                                <li class="menu-item rts-has-dropdown">
-                                    <a class="main-element rts-dropdown-main-element" href="index.php">Home</a>
-                                </li>
-                                <li class="menu-item"><a class="main-element rts-dropdown-main-element" href="contact.html">About</a></li>
-                               
-                                <li class="menu-item rts-has-dropdown">
+                        </li>
+                        <li style="line-height:1;">
+                            <a href="#" style="color:#ffffff; font-size:14px; line-height:1; text-decoration:none;">
+                                <i class="fa-brands fa-linkedin"></i>
+                            </a>
+                        </li>
+                        <li style="line-height:1;">
+                            <a href="#" style="color:#ffffff; font-size:14px; line-height:1; text-decoration:none;">
+                                <i class="fa-brands fa-youtube"></i>
+                            </a>
+                        </li>
+                        <li style="line-height:1;">
+                            <a href="#" style="color:#ffffff; font-size:14px; line-height:1; text-decoration:none;">
+                                <i class="fa-brands fa-twitter"></i>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+
+
+     <div class="header-main">
+            <div class="container">
+                <div class="header-main-inner">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="header-style-one-wrapper">
+                                <div class="left-area">
+                                    <div class="logo-area">
+                                        <a href="index.php" class="logo">
+                                            <img class="light" src="assets/images/logo/logo.jpg" width="100" height="100" alt="logo">   
+                                            <img class="dark" src="assets/images/logo/logo.jpg" width="100" height="100" alt="logo">                         
+                                        </a>
+                                    </div>
+                                    <nav class="main-nav-area">
+                                        <ul class="list-unstyled rts-desktop-menu">
+                                            <li class="menu-item rts-has-dropdown">
+                                             <a class="main-element rts-dropdown-main-element" href="index.php"style="; font-size:16px; font-weight:500;">Home</a>
+                                         </li>
+                                            <li class="menu-item"><a class="main-element rts-dropdown-main-element" href="contact.html">About</a></li>
+                                            <li class="menu-item rts-has-dropdown">
                                     <a href="#" class="rts-dropdown-main-element">Products</a>
                                     <!-- Start Dropdown Menu -->
                                     <ul class="rts-submenu list-unstyled menu-home mega-menu">
@@ -87,26 +139,13 @@
                                         </li>
                                     </ul> 
                                 </li>
-                                
                                 <li class="menu-item"><a class="main-element rts-dropdown-main-element" href="contact.html">Contact</a></li>
-                            </ul>
-                        </nav>
-                    </div>
-                    <div class="button-area-start">
-                        <a href="sign-in.html" class="rts-btn btn-primary btn-white">Log In</a>
-                        <a href="sign-up.html" class="rts-btn btn-primary">Sign Up</a>
-                        <div class="menu-btn-toggle2 white">
-                            <div class="eel-icon-menu-wrap">
-                                <em class="eel-icon-menu"></em>
-                                <em class="eel-icon-menu"></em>
+                                </ul>
+                                </nav>
+                                </div>
+
+                                
                             </div>
-                        </div>
-                        <div class="menu-btn menu-btn-toggle radius-6" id="menu-btn">
-                            <svg width="20" height="16" viewBox="0 0 20 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                <rect y="14" width="20" height="2" fill="#FFFFFF"></rect>
-                                <rect y="7" width="20" height="2" fill="#FFFFFF"></rect>
-                                <rect width="20" height="2" fill="#FFFFFF"></rect>
-                            </svg>
                         </div>
                     </div>
                 </div>
